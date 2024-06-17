@@ -1,2 +1,2 @@
-# TA-KELOMPOK-3-KELAS-2A
-TA KELOMPOK 3 KELAS 2A
+Menghitung Nilai dan Grade Mahasiswa Kelompok 3 Kelas 2A
+Tugas Akhir Praktikum Algoritma KELOMPOK 3 KELAS 2A
